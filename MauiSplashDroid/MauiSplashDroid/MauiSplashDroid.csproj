@@ -55,7 +55,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Platforms\Android\Resources\drawable\avd_anim.xml" />
+	  <None Remove="Platforms\Android\Resources\drawable-v31\avd_logo.xml" />
+	  <None Remove="Platforms\Android\Resources\drawable\avd_logo.xml" />
+	  <None Remove="Platforms\Android\Resources\drawable\news_avd.xml" />
 	  <None Remove="Platforms\Android\Resources\values\themes.xml" />
 	</ItemGroup>
 
