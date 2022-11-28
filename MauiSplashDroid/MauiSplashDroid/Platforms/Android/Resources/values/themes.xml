@@ -21,6 +21,6 @@
 
         <!-- Set the theme of the Activity that directly follows your splash screen. -->
         <!-- Required -->
-        <item name="postSplashScreenTheme">@style/Maui.SplashTheme</item>
+        <item name="postSplashScreenTheme">@style/Maui.MainTheme.NoActionBar</item>
     </style>
 </resources>
